@@ -1,6 +1,6 @@
 # MISP-Dashboard-Setup
 
-##Plugin Configurations
+## Plugin Configurations
 
 1. Action Plugin (Allows MISP to trigger automatic actions (like push to TheHive)
    Set the plugin actio services to true
