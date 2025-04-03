@@ -27,4 +27,6 @@
 6. Zero MQ Plugins
    true and enabled
    ![image](https://github.com/user-attachments/assets/4ac54e23-0705-4246-8751-9cc2b3b62da6)
+   ![Uploading image.png…]()
+
 
