@@ -23,3 +23,8 @@
 5. Workflow Plugin
    workflow plugin enabled
    ![image](https://github.com/user-attachments/assets/7742d7cf-f5a1-4458-b634-b6592ba302f2)
+
+6. Zero MQ Plugins
+   true and enabled
+   ![image](https://github.com/user-attachments/assets/4ac54e23-0705-4246-8751-9cc2b3b62da6)
+
